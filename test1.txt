@@ -5,3 +5,4 @@ I want to be a developer
 I also like graphic design
 I realy want to learn web developing
 I want to work in google
+logo alignment is fix
